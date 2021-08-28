@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CANH Pin=R1-1
+Removed Pin From Net: NetName=CANL Pin=R1-2
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=RESC3226X70N
+Change Component Comment : Designator=R1 Old Comment=120 New Comment=SG73P2ETTD1200F
+Change component parameters: Designator = "R1"; Footprint = "RESC3226X70N"; UniqueID = "\ZXATZWGD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ms.componentsearchengine.com/Datasheets/1/SG73P2ETTD1200F.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SG73P2ETTD1200F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANL Pin=R1-1
+Added Pin To Net: NetName=CANH Pin=R1-2

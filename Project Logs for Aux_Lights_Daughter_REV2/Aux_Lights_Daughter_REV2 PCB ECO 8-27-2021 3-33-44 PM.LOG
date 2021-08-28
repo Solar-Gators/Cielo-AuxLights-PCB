@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=IC2-2
+Removed Pin From Net: NetName=Brake_In Pin=IC2-3
+Removed Pin From Net: NetName=Brake_Out Pin=IC2-4
+Removed Pin From Net: NetName=5V Pin=IC2-5
+Removed Pin From Net: NetName=5V Pin=R1-1
+Removed Pin From Net: NetName=Brake_Out Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=CANH Pin=U1-4
+Removed Pin From Net: NetName=5V Pin=U1-5
+Removed Pin From Net: NetName=Rx Pin=U1-7
+Removed Pin From Net: NetName=3V3 Pin=U1-8
+Removed Pin From Net: NetName=5V Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Removed Member From Class: ClassName=Aux_Lights_Daughter_REV2 Member=IC2
+Removed Member From Class: ClassName=Aux_Lights_Daughter_REV2 Member=R1
+Removed Member From Class: ClassName=Aux_Lights_Daughter_REV2 Member=VR1
+Change Component Footprint: Designator=U1 Old Footprint=CANIC New Footprint=SOIC127P600X175-8N
+Change Component Comment : Designator=U1 Old Comment=TCAN1042HV New Comment=SN65HVDA1040BQDRQ1
+Change component parameters: Designator = "U1"; Footprint = "SOIC127P600X175-8N"; UniqueID = "\OEFCTYHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/SN65HVDA1040B-Q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN65HVDA1040BQDRQ1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Brake_In Pin=IC1-14
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=Rx Pin=U1-4
+Added Pin To Net: NetName=CANH Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=Extra- Pin=*1-7
+Added Net: Name=Extra-
+Added Pin To Net: NetName=Extra_out Pin=IC1-56
+Added Net: Name=Extra_out
+Change Class Name : Old Net Name=Aux_Lights_Daughter_REV2 New Net Name=Aux_Lights_Daughter_REV2_1
+Added Room: Name=Aux_Lights_Daughter_REV2_1

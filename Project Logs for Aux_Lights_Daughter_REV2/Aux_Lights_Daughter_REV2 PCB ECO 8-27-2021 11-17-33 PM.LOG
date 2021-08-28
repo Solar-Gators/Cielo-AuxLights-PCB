@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=Q6-S
+Added Pin To Net: NetName=Rev- Pin=*1-4
+Added Pin To Net: NetName=Rev- Pin=Q6-D
+Added Net: Name=Rev-
+Added Pin To Net: NetName=Rev_out Pin=IC1-53
+Added Pin To Net: NetName=Rev_out Pin=Q6-G
+Added Net: Name=Rev_out
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2_1 Member=Component Q1 13N06L
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2_1 Member=Component Q6 13N06L
+Added Room: Name=Aux_Lights_Daughter_REV2_1

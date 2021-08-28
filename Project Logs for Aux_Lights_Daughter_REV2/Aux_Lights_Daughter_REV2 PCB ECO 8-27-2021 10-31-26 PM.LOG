@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Brake_Out Pin=IC1-35
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2_1 Member=Component *2 9-Pin Connector
+Added Room: Name=Aux_Lights_Daughter_REV2_1
